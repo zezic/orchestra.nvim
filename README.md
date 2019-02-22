@@ -49,7 +49,7 @@ UpdateRemotePlugins
 We have some rudimentary theme (tune) support
 
 ```VimL
-call dein#add('timeyyy/clacklack.symphony')
+call dein#add('timeyyy/clackclack.symphony')
 
 call orchestra#prelude()
 call orchestra#set_tune('clackclack')
